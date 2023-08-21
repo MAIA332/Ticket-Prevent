@@ -22,7 +22,7 @@ O principal objetivo deste repositório é fornecer uma solução eficiente para
 
 **Como Usar:**
 1. Clone ou baixe o repositório para sua máquina local.
-2. Instale as dependências necessárias listadas no arquivo 'requirements.txt'.
+2. Instale as dependências necessárias listadas no arquivo ```requirements.txt```
 3. Use o Jupyter Notebook fornecido para explorar, pré-processar dados e treinar o modelo.
 4. Ajuste os parâmetros do modelo, se necessário, e execute as etapas de treinamento.
 5. Avalie o desempenho do modelo usando as métricas fornecidas e visualize as previsões.
@@ -44,3 +44,8 @@ numpy==1.24.1 </br>
 matplotlib==3.6.2 </br>
 tqdm==4.64.1 </br>
 ```
+---
+
+<p align="center">
+  Feito com ❤️ por Lukas Maia
+</p>

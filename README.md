@@ -1,10 +1,10 @@
 # Algoritmo de Previsão de Preço de Ações usando Análise de Dados
 
 ## Descrição
-Bem-vindo ao repositório do Algoritmo de Previsão de Preço de Ações usando Análise de Dados! Este projeto oferece uma implementação abrangente de um algoritmo de aprendizado de máquina que utiliza técnicas avançadas de análise de dados para prever preços de ações com base em um conjunto diversificado de características.
+Bem-vindo ao repositório do Algoritmo de Previsão de Preço de Ações usando Análise de Dados! Este projeto oferece uma implementação de um algoritmo de aprendizado de máquina que utiliza técnicas de análise de dados para prever preços de ações com base em um conjunto diversificado de características.
 
 **Objetivo:**
-O principal objetivo deste repositório é fornecer uma solução eficiente para previsão de preços de ações usando técnicas de aprendizado de máquina. O algoritmo foi projetado para lidar com dados históricos de ações e extrair insights significativos das seguintes características:
+O principal objetivo deste repositório é fornecer uma demonstração de técnicas para previsão de preços de ações usando técnicas de aprendizado de máquina. O algoritmo foi projetado para lidar com dados históricos de ações e extrair insights das seguintes características:
 
 - Preço de Abertura: O preço de abertura da ação no mercado.
 - Volume: A quantidade de ações negociadas durante o período.
